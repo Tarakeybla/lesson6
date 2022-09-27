@@ -6,7 +6,7 @@ import java.io.IOException;
 public class MainApp {
     public static void main(String[] args) throws IOException {
         String API = "D0Ao9y19iUPi8n2qNLmZcEASYAmEyylM";
-        String Zone = "Moscow";
+
 
         OkHttpClient client = new OkHttpClient();
 
