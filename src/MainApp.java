@@ -7,7 +7,6 @@ public class MainApp {
     public static void main(String[] args) throws IOException {
         String API = "D0Ao9y19iUPi8n2qNLmZcEASYAmEyylM";
 
-
         OkHttpClient client = new OkHttpClient();
 
         HttpUrl url = new HttpUrl.Builder()
